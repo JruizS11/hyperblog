@@ -3,3 +3,5 @@ Jorge Ruiz tiene 36 años y nacio en El Salvador
 hoy hablaremos de su historia.
 
 Estoy aprendiendo a usar git.
+
+Mi papa se llama: Jorge Ruiz
